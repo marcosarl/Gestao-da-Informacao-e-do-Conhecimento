@@ -1,4 +1,4 @@
-# InfoConhecimento
+# Projetos de Gestão da Informação e do Conhecimento
 
 REESTRUTURAÇÃO E ORGANIZAÇÃO DOS ARQUIVOS SETORIAIS
 
