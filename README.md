@@ -8,6 +8,8 @@
     
   * <i><b>Solução:</b></i> Triagem de documentos recebidos das filiais no Brasil, arquivamento de documentos em caixas por projeto/cliente, administração do arquivo corrente das áreas de recursos humanos, jurídico e jurídico, implementação de regras de temporalidade documental e criação de manual de procedimento do arquivo.
 
+🔗 [Saiba mais...](https://docs.google.com/presentation/d/1MvSykNmfq7qMOt4cuYN634Z27N28jJme/edit?usp=sharing&ouid=116306883399450186523&rtpof=true&sd=true)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 <b>[REESTRUTURAÇÃO E ORGANIZAÇÃO DOS ARQUIVOS SETORIAIS]</b>
@@ -19,9 +21,4 @@
   * <i><b>Solução:</b></i> Triagem dos documentos, padronização dos arquivos dos setores, criação de um repositório central para recebimento de documentos das obras, implementação das regras de temporalidade documental, e envio de documentos não utilizados para empresa de guarda externa.
 
 🔗 [Saiba mais...](https://docs.google.com/presentation/d/12mQ4MX00y5mEI0fEfzGDeabTQA1FQBOM/edit?usp=sharing&ouid=116306883399450186523&rtpof=true&sd=true)
-
-
-
-
-
 
