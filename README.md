@@ -1,4 +1,4 @@
-<h3 align="center"># Projetos de Gestão da Informação e do Conhecimento</h3>
+<h2 align="center"># Projetos de Gestão da Informação e do Conhecimento</h2>
 
 - 📊 Projeto 1 [ORGANIZAÇÃO DO ARQUIVO DE RECURSOS HUMANOS, JURÍDICO E ADMINISTRATIVO]
   * Sobre: A Sociedade Empresarial de Terceirização e Serviços Ltda. é uma empresa de Recursos Humanos, que presta serviços de Terceirização de Serviços, Movimentação Interna de Produtos, Prestação de Serviços Temporários e Recrutamento e Seleção de Pessoal Efetivo.
