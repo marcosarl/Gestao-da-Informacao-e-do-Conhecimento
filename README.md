@@ -1,7 +1,4 @@
-# Projetos de Gestão da Informação e do Conhecimento
-
-<h1 align="center">Olá, me chamo Marcos Antonio R. Lima 🖖</h1>
-<h3 align="center">Projetos de Gestão da Informação e do Conhecimento</h3>
+<h3 align="center"># Projetos de Gestão da Informação e do Conhecimento</h3>
 
 - 📊 Projeto 1 [ORGANIZAÇÃO DO ARQUIVO DE RECURSOS HUMANOS, JURÍDICO E ADMINISTRATIVO]
   * Sobre: A Sociedade Empresarial de Terceirização e Serviços Ltda. é uma empresa de Recursos Humanos, que presta serviços de Terceirização de Serviços, Movimentação Interna de Produtos, Prestação de Serviços Temporários e Recrutamento e Seleção de Pessoal Efetivo.
