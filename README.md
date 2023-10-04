@@ -1,8 +1,8 @@
-# Gestão da Informação e do Conhecimento
+# Projetos de Gestão da Informação e do Conhecimento
 ##### Este repositório contém uma coleção de projetos desenvolvidos utilizando o Power BI. Cada projeto está localizado em sua própria pasta e contém os arquivos necessários para visualizar e explorar os dados no Power BI Desktop.
 
 ## ORGANIZAÇÃO DO ARQUIVO DE RECURSOS HUMANOS, JURÍDICO E ADMINISTRATIVO
-#### Marketing
+#### 🔗 [Saiba mais...](https://docs.google.com/presentation/d/1MvSykNmfq7qMOt4cuYN634Z27N28jJme/edit?usp=sharing&ouid=116306883399450186523&rtpof=true&sd=true)
 ##### Neste dashboard foi feita a análise de eficiência das campanhas de marketing e a análise destas campanhas em relação ao clientes da empresa.
 #### Comercial
 ##### Dashboard comercial com várias análises, tais como: vendas, vendedores, principais influenciadores.
