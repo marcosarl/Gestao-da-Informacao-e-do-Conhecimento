@@ -8,7 +8,7 @@
     
   * <i><b>Solução:</b></i> Triagem de documentos recebidos das filiais no Brasil, arquivamento de documentos em caixas por projeto/cliente, administração do arquivo corrente das áreas de recursos humanos, jurídico e jurídico, implementação de regras de temporalidade documental e criação de manual de procedimento do arquivo.
 
-🔗 [ORGANIZAÇÃO DO ARQUIVO DE RECURSOS HUMANOS, JURÍDICO E ADMINISTRATIVO](https://docs.google.com/presentation/d/12mQ4MX00y5mEI0fEfzGDeabTQA1FQBOM/edit?usp=sharing&ouid=116306883399450186523&rtpof=true&sd=true)[Saiba mais...]()
+🔗 [Saiba mais...](https://docs.google.com/presentation/d/12mQ4MX00y5mEI0fEfzGDeabTQA1FQBOM/edit?usp=sharing&ouid=116306883399450186523&rtpof=true&sd=true)
  
 
 
