@@ -7,6 +7,7 @@
   * <i><b>Problema:</b></i> Acúmulo de documentos nos departamentos e filiais em todo Brasil, ausência de regras de recebimento e retenção dos documentos, falta de padronização de arquivamento e custos elevados com auditoria trabalhista por não localização de documentos.
     
   * <i><b>Solução:</b></i> Triagem de documentos recebidos das filiais no Brasil, arquivamento de documentos em caixas por projeto/cliente, administração do arquivo corrente das áreas de recursos humanos, jurídico e jurídico, implementação de regras de temporalidade documental e criação de manual de procedimento do arquivo.
+
     
 
 📊 <b>Projeto 2 [REESTRUTURAÇÃO E ORGANIZAÇÃO DOS ARQUIVOS SETORIAIS]</b>
