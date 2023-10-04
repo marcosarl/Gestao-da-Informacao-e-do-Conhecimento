@@ -2,12 +2,6 @@
 
 📊 <b>[ORGANIZAÇÃO DO ARQUIVO DE RECURSOS HUMANOS, JURÍDICO E ADMINISTRATIVO]</b>
 
-  * <i><b>Sobre:</b></i> A Sociedade Empresarial de Terceirização e Serviços Ltda. é uma empresa de Recursos Humanos, que presta serviços de Terceirização de Serviços, Movimentação Interna de Produtos, Prestação de Serviços Temporários e Recrutamento e Seleção de Pessoal Efetivo.
-    
-  * <i><b>Problema:</b></i> Acúmulo de documentos nos departamentos e filiais em todo Brasil, ausência de regras de recebimento e retenção dos documentos, falta de padronização de arquivamento e custos elevados com auditoria trabalhista por não localização de documentos.
-    
-  * <i><b>Solução:</b></i> Triagem de documentos recebidos das filiais no Brasil, arquivamento de documentos em caixas por projeto/cliente, administração do arquivo corrente das áreas de recursos humanos, jurídico e jurídico, implementação de regras de temporalidade documental e criação de manual de procedimento do arquivo.
-
 🔗 [Saiba mais...](https://docs.google.com/presentation/d/1MvSykNmfq7qMOt4cuYN634Z27N28jJme/edit?usp=sharing&ouid=116306883399450186523&rtpof=true&sd=true)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
