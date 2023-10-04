@@ -1,4 +1,4 @@
-<h1 align="center"># Projetos de Gestão da Informação e do Conhecimento</h1>
+<h1 align="center">Projetos de Gestão da Informação e do Conhecimento</h1>
 
 📊 <b>Projeto 1 [ORGANIZAÇÃO DO ARQUIVO DE RECURSOS HUMANOS, JURÍDICO E ADMINISTRATIVO]</b>
 
@@ -7,8 +7,9 @@
   * <i><b>Problema:</b></i> Acúmulo de documentos nos departamentos e filiais em todo Brasil, ausência de regras de recebimento e retenção dos documentos, falta de padronização de arquivamento e custos elevados com auditoria trabalhista por não localização de documentos.
     
   * <i><b>Solução:</b></i> Triagem de documentos recebidos das filiais no Brasil, arquivamento de documentos em caixas por projeto/cliente, administração do arquivo corrente das áreas de recursos humanos, jurídico e jurídico, implementação de regras de temporalidade documental e criação de manual de procedimento do arquivo.
-<p>
-<p>
+
+
+
 📊 <b>Projeto 2 [REESTRUTURAÇÃO E ORGANIZAÇÃO DOS ARQUIVOS SETORIAIS]</b>
 
   * <i><b>Sobre:</b></i> A Hochtief do Brasil S/A é uma empresa de engenharia e construção de excelência e oferece serviços e soluções completas: pré-construção, desenvolvimento de projetos, construção e assistência técnica pós-obra.
