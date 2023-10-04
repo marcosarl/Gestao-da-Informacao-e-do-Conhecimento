@@ -9,13 +9,14 @@
   * <i><b>Solução:</b></i> Triagem de documentos recebidos das filiais no Brasil, arquivamento de documentos em caixas por projeto/cliente, administração do arquivo corrente das áreas de recursos humanos, jurídico e jurídico, implementação de regras de temporalidade documental e criação de manual de procedimento do arquivo.
     
 
-Projeto 2 [REESTRUTURAÇÃO E ORGANIZAÇÃO DOS ARQUIVOS SETORIAIS]
+📊 <b>Projeto 2 [REESTRUTURAÇÃO E ORGANIZAÇÃO DOS ARQUIVOS SETORIAIS]</b>
 
-Sobre: A Hochtief do Brasil S/A é uma empresa de engenharia e construção de excelência e oferece serviços e soluções completas: pré-construção, desenvolvimento de projetos, construção e assistência técnica pós-obra.
+  * <i><b>Sobre:</b></i> A Hochtief do Brasil S/A é uma empresa de engenharia e construção de excelência e oferece serviços e soluções completas: pré-construção, desenvolvimento de projetos, construção e assistência técnica pós-obra.
+    
+  * <i><b>Problema:</b></i> Acúmulo de documentos nas UN's, necessidade de regras de retenção de documentos, falta de padronização de arquivamento dos setores, documentos não classificados e espalhados pelo escritório.
+    
+  * <i><b>Solução:</b></i> Triagem dos documentos, padronização dos arquivos dos setores, criação de um repositório central para recebimento de documentos das obras, implementação das regras de temporalidade documental, e envio de documentos não utilizados para empresa de guarda externa.
 
-Problema: Acúmulo de documentos nas UN's, necessidade de regras de retenção de documentos, falta de padronização de arquivamento dos setores, documentos não classificados e espalhados pelo escritório.
-
-Solução: Triagem dos documentos, padronização dos arquivos dos setores, criação de um repositório central para recebimento de documentos das obras, implementação das regras de temporalidade documental, e envio de documentos não utilizados para empresa de guarda externa.
 
 
 
