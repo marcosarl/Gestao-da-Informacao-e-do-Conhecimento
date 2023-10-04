@@ -6,3 +6,7 @@
 
 📊 <b>REESTRUTURAÇÃO E ORGANIZAÇÃO DOS ARQUIVOS SETORIAIS</b> 🔗 [Saiba mais...](https://docs.google.com/presentation/d/12mQ4MX00y5mEI0fEfzGDeabTQA1FQBOM/edit?usp=sharing&ouid=116306883399450186523&rtpof=true&sd=true)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📊 <b>REESTRUTURAÇÃO E ADMINISTRAÇÃO DO ARQUIVO JURÍDICO</b> 🔗 [Saiba mais...](https://docs.google.com/presentation/d/1fMIDpGLN0PYsSJqlDhqFvPWak6T4CEtw/edit?usp=sharing&ouid=116306883399450186523&rtpof=true&sd=true)
+
