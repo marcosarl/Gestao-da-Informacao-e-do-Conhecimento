@@ -1,6 +1,6 @@
 <h1 align="center"># Projetos de Gestão da Informação e do Conhecimento</h1>
 
-- 📊 <b>Projeto 1 [ORGANIZAÇÃO DO ARQUIVO DE RECURSOS HUMANOS, JURÍDICO E ADMINISTRATIVO]</b>
+📊 <b>Projeto 1 [ORGANIZAÇÃO DO ARQUIVO DE RECURSOS HUMANOS, JURÍDICO E ADMINISTRATIVO]</b>
 
   * <i><b>Sobre:</b></i> A Sociedade Empresarial de Terceirização e Serviços Ltda. é uma empresa de Recursos Humanos, que presta serviços de Terceirização de Serviços, Movimentação Interna de Produtos, Prestação de Serviços Temporários e Recrutamento e Seleção de Pessoal Efetivo.
     
