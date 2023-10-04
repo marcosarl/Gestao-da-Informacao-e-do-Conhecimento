@@ -7,6 +7,14 @@
 #### Comercial
 ##### Dashboard comercial com várias análises, tais como: vendas, vendedores, principais influenciadores.
 
+## Reestruturação e Organização dos Arquivos Setoriais
+#### 🔗 [Saiba mais...](https://docs.google.com/presentation/d/12mQ4MX00y5mEI0fEfzGDeabTQA1FQBOM/edit?usp=sharing&ouid=116306883399450186523&rtpof=true&sd=true)
+##### Neste dashboard foi feita a análise de eficiência das campanhas de marketing e a análise destas campanhas em relação ao clientes da empresa.
+#### Comercial
+##### Dashboard comercial com várias análises, tais como: vendas, vendedores, principais influenciadores.
+
+
+
 ### Pré-requisitos
 ##### Power BI Desktop: Certifique-se de ter o Power BI Desktop instalado em seu computador para abrir e explorar os arquivos do projeto.
 
